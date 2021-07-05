@@ -2,10 +2,10 @@
 
 
 
-GET Methods are those: 
-http://localhost:3000/
-http://localhost:3000/jahid
-http://localhost:3000/jahid/journey
+GET Methods are those:<br> 
+http://localhost:3000/<br> 
+http://localhost:3000/jahid<br> 
+http://localhost:3000/jahid/journey<br> 
 http://localhost:3000/jahid/journey/education
 http://localhost:3000/jahid/journey/training
 http://localhost:3000/jahid/journey/projects

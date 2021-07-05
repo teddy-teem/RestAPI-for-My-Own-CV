@@ -1,0 +1,50 @@
+{
+    "activities": [
+        {
+            "id": 1,
+            "club": "Bangladesh National Cadet Corps (BNCC)",
+            "position": "Cadet, BAUET ",
+            "time": "November 2018 – January 2021 ",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "club": "Programming Club, BAUET",
+            "position": "Assistant Secretary, General ",
+            "time": "October 2019 – May 2020",
+            "description": "I joined as the Assistant Secretary-General of Programming Club BAUET on 3 October 2019. Since then, I was active in this club much. I started to tech algorithms & data structure to my juniors in Sekh Rasel Lab. Later, the club was added to BAUET Computer Society. "
+        }
+    ],
+    "onlinePlatform":[
+        {
+            "id": 1,
+            "platformName": "acm ICPC",
+            "username": "Jahid Hasan"
+        },
+        {
+            "id": 2,
+            "platformName": "Codeforces",
+            "username": "logens"
+        }
+    ],
+    "languages": [
+        {
+            "id": 1,
+            "languageName": "Bangla",
+            "proficiency": "Native",
+            "speaking": true,
+            "writing": true,
+            "reading": true
+        }
+    ],
+    "whoknowsme": [
+        {
+            "id": 1, 
+            "name": "Omar Faruk",
+            "designation": "Lecturer, Dept. of CSE",
+            "address": "Naogaon, Rajshahi",
+            "mob": "+880 1708507424",
+            "email": "omarfarukcse10@gmail.com"
+        }
+    ]
+}

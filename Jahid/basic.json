@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "firstName": "Jahid",
+    "lastName": "Hasan",
+    "proffessoin": ["Passionate Worker", "Web Developer", "Android Developer", "Research Enthusiast", "Competitive Programmer"],
+    "profilePhoto": "./photos/jahid.png"
+}

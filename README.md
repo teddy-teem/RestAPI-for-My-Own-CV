@@ -35,6 +35,8 @@ http://localhost:3000/jahid/extra/onelineplatform<br>
 http://localhost:3000/Jahid/extra/languages<br> 
 http://localhost:3000/jahid/extra/whoknowsme<br> 
 
+Write data into JSON format in body with correct title
+
 <br> 
 <br> 
 all the api are case sensitive<br> 
